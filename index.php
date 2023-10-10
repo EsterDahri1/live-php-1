@@ -1,7 +1,7 @@
 <?php
 //    Stampare una stringa verde se la variabile password passata in GET è uguale a “Boolean”, altrimenti stampare una stringa rossa.
 
-var_dump($_GET['password']);
+//var_dump($_GET['password']);
 ?>
 
 <!DOCTYPE html>
